@@ -1,0 +1,19 @@
+topic_id: exoplanet_atmosphere
+topic_name: Exoplanet Atmosphere
+
+description: >
+  Focus on observational and modeling studies of exoplanet atmospheres,
+  especially using transmission spectroscopy and retrieval techniques.
+
+primary_keywords:
+  - "exoplanet atmosphere"
+  - "atmospheric retrieval"
+  - "transmission spectroscopy"
+
+secondary_keywords:
+  - "JWST"
+  - "cloud"
+  - "metallicity"
+
+scoring:
+  min_score: 60

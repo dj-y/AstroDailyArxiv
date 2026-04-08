@@ -1,0 +1,27 @@
+topic_id: variable_star_ml
+topic_name: Variable Stars (ML & Physical Inference)
+
+description: >
+  Focus on observational, classification, and modeling studies of variable stars
+  across all major types, including pulsating variables (e.g., RR Lyrae, Cepheids,
+  long-period variables) and eclipsing binaries (e.g., EW-type systems).
+  Emphasis on light curve analysis, time-series modeling, and machine learning
+  approaches, including representation learning (embedding) and applications such
+  as metallicity estimation from photometric data.
+
+primary_keywords:
+  - "variable star"
+  - "stellar variability"
+  - "light curve"
+  - "time series"
+
+secondary_keywords:
+  - "metallicity"
+  - "machine learning"
+  - "deep learning"
+  - "embedding"
+  - "representation learning"
+  - "classification"
+
+scoring:
+  min_score: 60
